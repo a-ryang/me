@@ -5,4 +5,4 @@ I'm
 - interested in UI/UX.
 
 ### Work experience
-- Newlecture (2023.11 ~ )
+- Newlecture (2023.11 ~ 2024.03)
