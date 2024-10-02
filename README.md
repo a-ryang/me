@@ -1,10 +1,5 @@
-### 👋 ChanWu Kim
-
-I'm 
-- A full-stack web developer.
-- interested in UI/UX.
-- Currently focused on the frontend.
-
-### Work experience
-- Newlecture (2023.11 ~ 2024.03)
-  - [newtil-css](https://github.com/newlecture-corp/newtil-css) : Design and development
+<p align="center">
+  <samp>
+    <a href="https://www.chanwu.dev/">blog</a>
+  </samp>
+</p>
